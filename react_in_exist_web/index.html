@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>React App</title>
+  </head>
+  <body>
+    <div id="root"></div>
+    <script
+      src="https://unpkg.com/react@18/umd/react.development.js"
+      crossorigin
+    ></script>
+    <script
+      src="https://unpkg.com/react-dom@18/umd/react-dom.development.js"
+      crossorigin
+    ></script>
+    <script src="https://unpkg.com/babel-standalone/babel.min.js"></script>
+    <script type="text/babel">
+      function App() {
+        const a = "Apple";
+
+        const handleClick = (event) => {
+          console.log("Button clicked");
+          console.log(event);
+        };
+
+        return (
+          <div>
+            <div>
+              <h1>Hello, React!</h1>
+            </div>
+            <p>{a}</p> {/* print out Apple*/}
+            <button onClick={handleClick}>Button</button>
+            <button onClick={() => console.log("Inline clicked")}>
+              Inline Click
+            </button>
+          </div>
+        );
+      }
+
+      ReactDOM.render(<App />, document.getElementById("root"));
+    </script>
+  </body>
+</html>

@@ -1,0 +1,7 @@
+react
+class -> className
+
+React: {/* */}
+
+const a = 'Apple'
+<p> {a} </p>
