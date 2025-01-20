@@ -1,4 +1,7 @@
 import React from "react";
+import { useState } from "react"; //React Hook
+//react hook is a function that lets you use state and other React features without writing a class
+//react hook可以在不寫class的情況下使用state和其他React功能
 
 export default function ProductList() {
   const productList = [
@@ -104,25 +107,61 @@ export default function ProductList() {
       originCh: "台灣",
     },
   ];
+
+  //let product = fruit
+
+  //now use state test a string change
+  const [product, setProduct] = useState("fruit");
+  const handleClick = () => {
+    setProduct("vegetable");
+    console.log("product", product);
+  };
+
+  //show and hide product list
+  const [showProduct, setShowList] = useState(true);
+
   return (
     <div>
+      <h2>{product}</h2>
+      <button onClick={handleClick}>Change</button>
       <h1>挑選您喜愛的水果</h1>
+
+      {/* Make a button to handle showing the fruit list*/}
+      {!showProduct && (
+        <button
+          onClick={() => {
+            setShowList(true);
+          }}
+        >
+          Show Product List
+        </button>
+      )}
+      {showProduct && (
+        <button
+          onClick={() => {
+            setShowList(false);
+          }}
+        >
+          Hide Product List
+        </button>
+      )}
       <div>
-        {productList.map((product) => (
-          <div key={product.id}>
-            <h2>
-              {product.nameCh} {product.nameEn}
-              {product.isPopular && <span> (熱賣中)</span>}
-              {product.image && (
-                <img
-                  src={process.env.PUBLIC_URL + product.image}
-                  alt={product.nameEn}
-                  style={{ width: 100 }}
-                />
-              )}
-            </h2>
-          </div>
-        ))}
+        {showProduct /* if showProduct is false then hide the product list */ &&
+          productList.map((product) => (
+            <div key={product.id}>
+              <h2>
+                {product.nameCh} {product.nameEn}
+                {product.isPopular && <span> (熱賣中)</span>}
+                {product.image && (
+                  <img
+                    src={process.env.PUBLIC_URL + product.image}
+                    alt={product.nameEn}
+                    style={{ width: 100 }}
+                  />
+                )}
+              </h2>
+            </div>
+          ))}
       </div>
     </div>
   );
