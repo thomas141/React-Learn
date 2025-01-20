@@ -7,12 +7,14 @@ function App() {
   return (
     <BrowserRouter>
       <Link to="/">Main Page</Link>
-      <Link to="/product_detail">Product Detail</Link>
+      <Link to="/product">Product Detail</Link>
       <Link to="/checkout">checkout</Link>
       <Routes>
         <Route path="/" element={<ProductList />} />
         <Route path="/checkout" element={<Checkout />} />
-        <Route path="/product_detail" element={<ProductDetail />} />
+        <Route path="/product" element={<ProductDetail />}>
+          <Route path=":id" element={<ProductDetail />} />
+        </Route>
         <Route path="*" element={<h1>404 Not Found</h1>} />
       </Routes>
     </BrowserRouter>

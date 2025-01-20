@@ -1,5 +1,7 @@
+import { Link } from "react-router-dom";
 import React from "react";
 import { useState } from "react"; //React Hook
+import Title from "./Title";
 //react hook is a function that lets you use state and other React features without writing a class
 //react hook可以在不寫class的情況下使用state和其他React功能
 
@@ -122,9 +124,9 @@ export default function ProductList() {
 
   return (
     <div>
+      <Title mainTitle="請選擇你喜歡的水果" />
       <h2>{product}</h2>
       <button onClick={handleClick}>Change</button>
-      <h1>挑選您喜愛的水果</h1>
 
       {/* Make a button to handle showing the fruit list*/}
       {!showProduct && (
@@ -153,11 +155,14 @@ export default function ProductList() {
                 {product.nameCh} {product.nameEn}
                 {product.isPopular && <span> (熱賣中)</span>}
                 {product.image && (
-                  <img
-                    src={process.env.PUBLIC_URL + product.image}
-                    alt={product.nameEn}
-                    style={{ width: 100 }}
-                  />
+                  <Link to={`/product/${product.id}`}>
+                    詳細資訊
+                    <img
+                      src={process.env.PUBLIC_URL + product.image}
+                      alt={product.nameEn}
+                      style={{ width: 100 }}
+                    />
+                  </Link>
                 )}
               </h2>
             </div>
