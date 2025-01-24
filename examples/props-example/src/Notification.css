@@ -1,0 +1,9 @@
+.general {
+  color: black;
+}
+.important {
+  color: yellow;
+}
+.urgent {
+  color: red;
+}
