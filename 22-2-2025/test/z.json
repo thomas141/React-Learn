@@ -1,0 +1,1443 @@
+{
+  "data": [
+    {
+      "_id": "k0U67UjoOmBu",
+      "coordinates": [1048, 327],
+      "name": "LTA",
+      "tagIds": ["lectureHall"],
+      "url": "http://seatplan.ust.hk/?room=LTA",
+      "floorId": "1",
+      "distance": 0,
+      "unit": "METER"
+    },
+    {
+      "_id": "5w66UHWZen0i",
+      "coordinates": [1136, 327],
+      "floorId": "1",
+      "distance": 6.324999999999999,
+      "unit": "METER"
+    },
+    {
+      "_id": "YsDRUprdqlS",
+      "coordinates": [1136, 228],
+      "floorId": "1",
+      "panoImage": "5d8de9629f0bc110148324c5",
+      "panoImageUrl": "https://pathadvisor.ust.hk/api/pano/images/5d8de9629f0bc110148324c5",
+      "distance": 7.115625,
+      "unit": "METER"
+    },
+    {
+      "_id": "GOMSSrNjdeT",
+      "coordinates": [1136, 141],
+      "floorId": "1",
+      "panoImage": "5d8de9839f0bc11014832526",
+      "panoImageUrl": "https://pathadvisor.ust.hk/api/pano/images/5d8de9839f0bc11014832526",
+      "distance": 6.253124999999999,
+      "unit": "METER"
+    },
+    {
+      "_id": "ZeO8RSAyvBA",
+      "coordinates": [1167, 141],
+      "floorId": "1",
+      "distance": 2.2281249999999986,
+      "unit": "METER"
+    },
+    {
+      "_id": "8UG0TvwVzE8",
+      "coordinates": [1230, 141],
+      "floorId": "1",
+      "distance": 4.528124999999999,
+      "unit": "METER"
+    },
+    {
+      "_id": "hVTzRMHN6n5",
+      "coordinates": [1297, 141],
+      "floorId": "1",
+      "panoImage": "5d8de96a9f0bc110148324dd",
+      "panoImageUrl": "https://pathadvisor.ust.hk/api/pano/images/5d8de96a9f0bc110148324dd",
+      "distance": 4.815625000000001,
+      "unit": "METER"
+    },
+    {
+      "_id": "2SI_0Dj3YoU5",
+      "coordinates": [1443, 141],
+      "floorId": "1",
+      "distance": 10.493749999999995,
+      "unit": "METER"
+    },
+    {
+      "_id": "Lifgc8khwsj",
+      "coordinates": [1463, 141],
+      "floorId": "1",
+      "panoImage": "5d8de96d9f0bc110148324e6",
+      "panoImageUrl": "https://pathadvisor.ust.hk/api/pano/images/5d8de96d9f0bc110148324e6",
+      "distance": 1.4375,
+      "unit": "METER"
+    },
+    {
+      "_id": "4JSGjT2ss2P",
+      "coordinates": [1514, 141],
+      "floorId": "1",
+      "distance": 3.6656249999999986,
+      "unit": "METER"
+    },
+    {
+      "_id": "eHU1rhs_3wa",
+      "coordinates": [1555, 141],
+      "floorId": "1",
+      "panoImage": "5d8de9699f0bc110148324da",
+      "panoImageUrl": "https://pathadvisor.ust.hk/api/pano/images/5d8de9699f0bc110148324da",
+      "distance": 2.9468749999999986,
+      "unit": "METER"
+    },
+    {
+      "_id": "mVwn9txZprf",
+      "coordinates": [1666, 141],
+      "floorId": "1",
+      "distance": 7.978124999999999,
+      "unit": "METER"
+    },
+    {
+      "_id": "GORLJgF1g2D",
+      "coordinates": [1698, 141],
+      "floorId": "1",
+      "panoImage": "5d8de9689f0bc110148324d7",
+      "panoImageUrl": "https://pathadvisor.ust.hk/api/pano/images/5d8de9689f0bc110148324d7",
+      "distance": 2.299999999999997,
+      "unit": "METER"
+    },
+    {
+      "_id": "1WDIYYl_vXTO",
+      "coordinates": [1698, 211],
+      "floorId": "1",
+      "image": "5cae5ef9a092533cecb92155",
+      "panoImage": "5d8de96b9f0bc110148324e1",
+      "imageUrl": "https://pathadvisor.ust.hk/api/images/5cae5ef9a092533cecb92155",
+      "panoImageUrl": "https://pathadvisor.ust.hk/api/pano/images/5d8de96b9f0bc110148324e1",
+      "distance": 5.031249999999993,
+      "unit": "METER"
+    },
+    {
+      "_id": "CX8HtX1vdpQM",
+      "coordinates": [1730, 211],
+      "floorId": "1",
+      "distance": 2.299999999999997,
+      "unit": "METER"
+    },
+    {
+      "_id": "ZjcBsfNAquq",
+      "coordinates": [1743, 211],
+      "floorId": "1",
+      "panoImage": "5d8de9709f0bc110148324ee",
+      "panoImageUrl": "https://pathadvisor.ust.hk/api/pano/images/5d8de9709f0bc110148324ee",
+      "distance": 0.9343750000000028,
+      "unit": "METER"
+    },
+    {
+      "_id": "YNNRx_3PfrQq",
+      "coordinates": [1758, 211],
+      "floorId": "1",
+      "distance": 1.078125,
+      "unit": "METER"
+    },
+    {
+      "_id": "GZxFFVMPwff",
+      "coordinates": [1799, 211],
+      "floorId": "1",
+      "panoImage": "5d8de96f9f0bc110148324eb",
+      "panoImageUrl": "https://pathadvisor.ust.hk/api/pano/images/5d8de96f9f0bc110148324eb",
+      "distance": 2.9468750000000057,
+      "unit": "METER"
+    },
+    {
+      "_id": "ZHVYIZASKjzj",
+      "coordinates": [1821, 211],
+      "floorId": "1",
+      "distance": 1.5812499999999972,
+      "unit": "METER"
+    },
+    {
+      "_id": "rsqhpWFrtTAL",
+      "coordinates": [1849, 211],
+      "floorId": "1",
+      "panoImage": "5d8de9839f0bc11014832527",
+      "panoImageUrl": "https://pathadvisor.ust.hk/api/pano/images/5d8de9839f0bc11014832527",
+      "distance": 2.012500000000003,
+      "unit": "METER"
+    },
+    {
+      "_id": "N_hnJ2Ufo-3D",
+      "coordinates": [1877, 211],
+      "floorId": "1",
+      "distance": 2.012500000000003,
+      "unit": "METER"
+    },
+    {
+      "_id": "_9IjNTsmP1c",
+      "coordinates": [1990, 211],
+      "floorId": "1",
+      "panoImage": "5d8de9729f0bc110148324f4",
+      "panoImageUrl": "https://pathadvisor.ust.hk/api/pano/images/5d8de9729f0bc110148324f4",
+      "distance": 8.121875000000003,
+      "unit": "METER"
+    },
+    {
+      "_id": "4Gr1K3Fhcyaz",
+      "coordinates": [2033, 211],
+      "floorId": "1",
+      "panoImage": "5d8de9729f0bc110148324f3",
+      "panoImageUrl": "https://pathadvisor.ust.hk/api/pano/images/5d8de9729f0bc110148324f3",
+      "distance": 3.090625000000003,
+      "unit": "METER"
+    },
+    {
+      "_id": "pYhoaD0OmX-e",
+      "coordinates": [2033, 240],
+      "floorId": "1",
+      "distance": 2.0843749999999943,
+      "unit": "METER"
+    },
+    {
+      "_id": "wYSQt4yJKube",
+      "coordinates": [2154, 240],
+      "name": "ESCALATOR",
+      "connectorId": "ESCALATOR_SP 1_2_DOWN",
+      "floorId": "1",
+      "distance": 8.696874999999991,
+      "unit": "METER"
+    },
+    {
+      "_id": "yRCPIjvvNX4q",
+      "coordinates": [2162, 223],
+      "name": "ESCALATOR",
+      "connectorId": "ESCALATOR_SP 1_2_DOWN",
+      "floorId": "2",
+      "distance": 9.999993721976352e-9,
+      "unit": "METER"
+    },
+    {
+      "_id": "TMJ5wZ-mx8b5",
+      "coordinates": [2303, 223],
+      "floorId": "2",
+      "distance": 10.134374999999991,
+      "unit": "METER"
+    },
+    {
+      "_id": "V0-tdaScw3yE",
+      "coordinates": [2303, 269],
+      "floorId": "2",
+      "distance": 3.3062500000000057,
+      "unit": "METER"
+    },
+    {
+      "_id": "nBxFCTlTHMRD",
+      "coordinates": [2463, 269],
+      "floorId": "2",
+      "panoImage": "5d8de9a79f0bc11014832589",
+      "panoImageUrl": "https://pathadvisor.ust.hk/api/pano/images/5d8de9a79f0bc11014832589",
+      "distance": 11.5,
+      "unit": "METER"
+    },
+    {
+      "_id": "WFDKCMRnU9Wk",
+      "coordinates": [2546, 269],
+      "floorId": "2",
+      "panoImage": "5d8de9a79f0bc1101483258a",
+      "panoImageUrl": "https://pathadvisor.ust.hk/api/pano/images/5d8de9a79f0bc1101483258a",
+      "distance": 5.965624999999989,
+      "unit": "METER"
+    },
+    {
+      "_id": "Xe6uJSN9DBnu",
+      "coordinates": [2631, 269],
+      "floorId": "2",
+      "panoImage": "5d8de9949f0bc11014832552",
+      "panoImageUrl": "https://pathadvisor.ust.hk/api/pano/images/5d8de9949f0bc11014832552",
+      "distance": 6.109375,
+      "unit": "METER"
+    },
+    {
+      "_id": "08QsSK5S7pG0",
+      "coordinates": [2709, 269],
+      "floorId": "2",
+      "panoImage": "5d8de9a89f0bc1101483258e",
+      "panoImageUrl": "https://pathadvisor.ust.hk/api/pano/images/5d8de9a89f0bc1101483258e",
+      "distance": 5.606249999999989,
+      "unit": "METER"
+    },
+    {
+      "_id": "KjVc1MUPV2bR",
+      "coordinates": [2754, 269],
+      "floorId": "2",
+      "panoImage": "5d8de9949f0bc11014832554",
+      "panoImageUrl": "https://pathadvisor.ust.hk/api/pano/images/5d8de9949f0bc11014832554",
+      "distance": 3.234375,
+      "unit": "METER"
+    },
+    {
+      "_id": "a8W5fQ953GAp",
+      "coordinates": [2842, 269],
+      "floorId": "2",
+      "distance": 6.324999999999989,
+      "unit": "METER"
+    },
+    {
+      "_id": "70xa6Q7ZbWWc",
+      "coordinates": [2862, 269],
+      "floorId": "2",
+      "distance": 1.4375,
+      "unit": "METER"
+    },
+    {
+      "_id": "sIeY3tyIEXIU",
+      "coordinates": [2882, 269],
+      "floorId": "2",
+      "distance": 1.4375,
+      "unit": "METER"
+    },
+    {
+      "_id": "v-wOD3VZwg7o",
+      "coordinates": [2902, 269],
+      "floorId": "2",
+      "distance": 1.4375,
+      "unit": "METER"
+    },
+    {
+      "_id": "yeImckzaYysV",
+      "coordinates": [2932, 269],
+      "floorId": "2",
+      "distance": 2.15625,
+      "unit": "METER"
+    },
+    {
+      "_id": "SvbTuitp_2pm",
+      "coordinates": [2963, 269],
+      "floorId": "2",
+      "distance": 2.2281250000000057,
+      "unit": "METER"
+    },
+    {
+      "_id": "iBH6D4O_8ZLC",
+      "coordinates": [2979, 269],
+      "floorId": "2",
+      "distance": 1.1500000000000057,
+      "unit": "METER"
+    },
+    {
+      "_id": "0DPEyGCZ9xNV",
+      "coordinates": [2998, 269],
+      "floorId": "2",
+      "distance": 1.3656249999999943,
+      "unit": "METER"
+    },
+    {
+      "_id": "IBDTCsGANQE-",
+      "coordinates": [3022, 269],
+      "floorId": "2",
+      "distance": 1.7249999999999943,
+      "unit": "METER"
+    },
+    {
+      "_id": "D-IBqpDpUVIG",
+      "coordinates": [3050, 269],
+      "floorId": "2",
+      "panoImage": "5d8de9f49f0bc11014832674",
+      "panoImageUrl": "https://pathadvisor.ust.hk/api/pano/images/5d8de9f49f0bc11014832674",
+      "distance": 2.0124999999999886,
+      "unit": "METER"
+    },
+    {
+      "_id": "7C02qOLAUMGC",
+      "coordinates": [3050, 315],
+      "floorId": "2",
+      "distance": 3.3062500000000057,
+      "unit": "METER"
+    },
+    {
+      "_id": "ASJTqHIGYQ_U",
+      "coordinates": [3168, 315],
+      "name": "LTJ",
+      "tagIds": ["lectureHall"],
+      "url": "http://seatplan.ust.hk/?room=LTJ",
+      "floorId": "2",
+      "distance": 0,
+      "unit": "METER"
+    },
+    {
+      "_id": "7C02qOLAUMGC",
+      "coordinates": [3050, 315],
+      "floorId": "2",
+      "distance": 8.48125,
+      "unit": "METER"
+    },
+    {
+      "_id": "D-IBqpDpUVIG",
+      "coordinates": [3050, 269],
+      "floorId": "2",
+      "panoImage": "5d8de9f49f0bc11014832674",
+      "panoImageUrl": "https://pathadvisor.ust.hk/api/pano/images/5d8de9f49f0bc11014832674",
+      "distance": 3.3062500000000004,
+      "unit": "METER"
+    },
+    {
+      "_id": "IBDTCsGANQE-",
+      "coordinates": [3022, 269],
+      "floorId": "2",
+      "distance": 2.0124999999999993,
+      "unit": "METER"
+    },
+    {
+      "_id": "0DPEyGCZ9xNV",
+      "coordinates": [2998, 269],
+      "floorId": "2",
+      "distance": 1.7249999999999996,
+      "unit": "METER"
+    },
+    {
+      "_id": "iBH6D4O_8ZLC",
+      "coordinates": [2979, 269],
+      "floorId": "2",
+      "distance": 1.3656250000000014,
+      "unit": "METER"
+    },
+    {
+      "_id": "SvbTuitp_2pm",
+      "coordinates": [2963, 269],
+      "floorId": "2",
+      "distance": 1.1499999999999986,
+      "unit": "METER"
+    },
+    {
+      "_id": "yeImckzaYysV",
+      "coordinates": [2932, 269],
+      "floorId": "2",
+      "distance": 2.2281249999999986,
+      "unit": "METER"
+    },
+    {
+      "_id": "v-wOD3VZwg7o",
+      "coordinates": [2902, 269],
+      "floorId": "2",
+      "distance": 2.15625,
+      "unit": "METER"
+    },
+    {
+      "_id": "sIeY3tyIEXIU",
+      "coordinates": [2882, 269],
+      "floorId": "2",
+      "distance": 1.4375,
+      "unit": "METER"
+    },
+    {
+      "_id": "70xa6Q7ZbWWc",
+      "coordinates": [2862, 269],
+      "floorId": "2",
+      "distance": 1.4375,
+      "unit": "METER"
+    },
+    {
+      "_id": "a8W5fQ953GAp",
+      "coordinates": [2842, 269],
+      "floorId": "2",
+      "distance": 1.4375,
+      "unit": "METER"
+    },
+    {
+      "_id": "KjVc1MUPV2bR",
+      "coordinates": [2754, 269],
+      "floorId": "2",
+      "panoImage": "5d8de9949f0bc11014832554",
+      "panoImageUrl": "https://pathadvisor.ust.hk/api/pano/images/5d8de9949f0bc11014832554",
+      "distance": 6.325000000000003,
+      "unit": "METER"
+    },
+    {
+      "_id": "08QsSK5S7pG0",
+      "coordinates": [2709, 269],
+      "floorId": "2",
+      "panoImage": "5d8de9a89f0bc1101483258e",
+      "panoImageUrl": "https://pathadvisor.ust.hk/api/pano/images/5d8de9a89f0bc1101483258e",
+      "distance": 3.234375,
+      "unit": "METER"
+    },
+    {
+      "_id": "Xe6uJSN9DBnu",
+      "coordinates": [2631, 269],
+      "floorId": "2",
+      "panoImage": "5d8de9949f0bc11014832552",
+      "panoImageUrl": "https://pathadvisor.ust.hk/api/pano/images/5d8de9949f0bc11014832552",
+      "distance": 5.606250000000003,
+      "unit": "METER"
+    },
+    {
+      "_id": "WFDKCMRnU9Wk",
+      "coordinates": [2546, 269],
+      "floorId": "2",
+      "panoImage": "5d8de9a79f0bc1101483258a",
+      "panoImageUrl": "https://pathadvisor.ust.hk/api/pano/images/5d8de9a79f0bc1101483258a",
+      "distance": 6.109375,
+      "unit": "METER"
+    },
+    {
+      "_id": "nBxFCTlTHMRD",
+      "coordinates": [2463, 269],
+      "floorId": "2",
+      "panoImage": "5d8de9a79f0bc11014832589",
+      "panoImageUrl": "https://pathadvisor.ust.hk/api/pano/images/5d8de9a79f0bc11014832589",
+      "distance": 5.965625000000003,
+      "unit": "METER"
+    },
+    {
+      "_id": "V0-tdaScw3yE",
+      "coordinates": [2303, 269],
+      "floorId": "2",
+      "distance": 11.5,
+      "unit": "METER"
+    },
+    {
+      "_id": "TMJ5wZ-mx8b5",
+      "coordinates": [2303, 223],
+      "floorId": "2",
+      "distance": 3.3062500000000057,
+      "unit": "METER"
+    },
+    {
+      "_id": "yRCPIjvvNX4q",
+      "coordinates": [2162, 223],
+      "name": "ESCALATOR",
+      "connectorId": "ESCALATOR_SP 1_2_DOWN",
+      "floorId": "2",
+      "distance": 10.134375000000006,
+      "unit": "METER"
+    },
+    {
+      "_id": "wYSQt4yJKube",
+      "coordinates": [2154, 240],
+      "name": "ESCALATOR",
+      "connectorId": "ESCALATOR_SP 1_2_DOWN",
+      "floorId": "1",
+      "distance": 9.999993721976352e-9,
+      "unit": "METER"
+    },
+    {
+      "_id": "pYhoaD0OmX-e",
+      "coordinates": [2033, 240],
+      "floorId": "1",
+      "distance": 8.696874999999991,
+      "unit": "METER"
+    },
+    {
+      "_id": "4Gr1K3Fhcyaz",
+      "coordinates": [2033, 211],
+      "floorId": "1",
+      "panoImage": "5d8de9729f0bc110148324f3",
+      "panoImageUrl": "https://pathadvisor.ust.hk/api/pano/images/5d8de9729f0bc110148324f3",
+      "distance": 2.0843749999999943,
+      "unit": "METER"
+    },
+    {
+      "_id": "_9IjNTsmP1c",
+      "coordinates": [1990, 211],
+      "floorId": "1",
+      "panoImage": "5d8de9729f0bc110148324f4",
+      "panoImageUrl": "https://pathadvisor.ust.hk/api/pano/images/5d8de9729f0bc110148324f4",
+      "distance": 3.090625000000003,
+      "unit": "METER"
+    },
+    {
+      "_id": "N_hnJ2Ufo-3D",
+      "coordinates": [1877, 211],
+      "floorId": "1",
+      "distance": 8.121875000000003,
+      "unit": "METER"
+    },
+    {
+      "_id": "rsqhpWFrtTAL",
+      "coordinates": [1849, 211],
+      "floorId": "1",
+      "panoImage": "5d8de9839f0bc11014832527",
+      "panoImageUrl": "https://pathadvisor.ust.hk/api/pano/images/5d8de9839f0bc11014832527",
+      "distance": 2.012500000000003,
+      "unit": "METER"
+    },
+    {
+      "_id": "ZHVYIZASKjzj",
+      "coordinates": [1821, 211],
+      "floorId": "1",
+      "distance": 2.012500000000003,
+      "unit": "METER"
+    },
+    {
+      "_id": "GZxFFVMPwff",
+      "coordinates": [1799, 211],
+      "floorId": "1",
+      "panoImage": "5d8de96f9f0bc110148324eb",
+      "panoImageUrl": "https://pathadvisor.ust.hk/api/pano/images/5d8de96f9f0bc110148324eb",
+      "distance": 1.5812499999999972,
+      "unit": "METER"
+    },
+    {
+      "_id": "YNNRx_3PfrQq",
+      "coordinates": [1758, 211],
+      "floorId": "1",
+      "distance": 2.9468750000000057,
+      "unit": "METER"
+    },
+    {
+      "_id": "ZjcBsfNAquq",
+      "coordinates": [1743, 211],
+      "floorId": "1",
+      "panoImage": "5d8de9709f0bc110148324ee",
+      "panoImageUrl": "https://pathadvisor.ust.hk/api/pano/images/5d8de9709f0bc110148324ee",
+      "distance": 1.078125,
+      "unit": "METER"
+    },
+    {
+      "_id": "CX8HtX1vdpQM",
+      "coordinates": [1730, 211],
+      "floorId": "1",
+      "distance": 0.9343750000000028,
+      "unit": "METER"
+    },
+    {
+      "_id": "1WDIYYl_vXTO",
+      "coordinates": [1698, 211],
+      "floorId": "1",
+      "image": "5cae5ef9a092533cecb92155",
+      "panoImage": "5d8de96b9f0bc110148324e1",
+      "imageUrl": "https://pathadvisor.ust.hk/api/images/5cae5ef9a092533cecb92155",
+      "panoImageUrl": "https://pathadvisor.ust.hk/api/pano/images/5d8de96b9f0bc110148324e1",
+      "distance": 2.299999999999997,
+      "unit": "METER"
+    },
+    {
+      "_id": "GORLJgF1g2D",
+      "coordinates": [1698, 141],
+      "floorId": "1",
+      "panoImage": "5d8de9689f0bc110148324d7",
+      "panoImageUrl": "https://pathadvisor.ust.hk/api/pano/images/5d8de9689f0bc110148324d7",
+      "distance": 5.03125,
+      "unit": "METER"
+    },
+    {
+      "_id": "mVwn9txZprf",
+      "coordinates": [1666, 141],
+      "floorId": "1",
+      "distance": 2.299999999999997,
+      "unit": "METER"
+    },
+    {
+      "_id": "eHU1rhs_3wa",
+      "coordinates": [1555, 141],
+      "floorId": "1",
+      "panoImage": "5d8de9699f0bc110148324da",
+      "panoImageUrl": "https://pathadvisor.ust.hk/api/pano/images/5d8de9699f0bc110148324da",
+      "distance": 7.978125000000006,
+      "unit": "METER"
+    },
+    {
+      "_id": "4JSGjT2ss2P",
+      "coordinates": [1514, 141],
+      "floorId": "1",
+      "distance": 2.9468750000000057,
+      "unit": "METER"
+    },
+    {
+      "_id": "Lifgc8khwsj",
+      "coordinates": [1463, 141],
+      "floorId": "1",
+      "panoImage": "5d8de96d9f0bc110148324e6",
+      "panoImageUrl": "https://pathadvisor.ust.hk/api/pano/images/5d8de96d9f0bc110148324e6",
+      "distance": 3.6656250000000057,
+      "unit": "METER"
+    },
+    {
+      "_id": "2SI_0Dj3YoU5",
+      "coordinates": [1443, 141],
+      "floorId": "1",
+      "distance": 1.4375,
+      "unit": "METER"
+    },
+    {
+      "_id": "hVTzRMHN6n5",
+      "coordinates": [1297, 141],
+      "floorId": "1",
+      "panoImage": "5d8de96a9f0bc110148324dd",
+      "panoImageUrl": "https://pathadvisor.ust.hk/api/pano/images/5d8de96a9f0bc110148324dd",
+      "distance": 10.493750000000006,
+      "unit": "METER"
+    },
+    {
+      "_id": "8UG0TvwVzE8",
+      "coordinates": [1230, 141],
+      "floorId": "1",
+      "distance": 4.815625000000011,
+      "unit": "METER"
+    },
+    {
+      "_id": "ZeO8RSAyvBA",
+      "coordinates": [1167, 141],
+      "floorId": "1",
+      "distance": 4.528124999999989,
+      "unit": "METER"
+    },
+    {
+      "_id": "GOMSSrNjdeT",
+      "coordinates": [1136, 141],
+      "floorId": "1",
+      "panoImage": "5d8de9839f0bc11014832526",
+      "panoImageUrl": "https://pathadvisor.ust.hk/api/pano/images/5d8de9839f0bc11014832526",
+      "distance": 2.2281250000000057,
+      "unit": "METER"
+    },
+    {
+      "_id": "cFMuo3YIBzq",
+      "coordinates": [956, 141],
+      "floorId": "1",
+      "distance": 12.9375,
+      "unit": "METER"
+    },
+    {
+      "_id": "wLpV6AU_lSx9",
+      "coordinates": [933, 141],
+      "floorId": "1",
+      "image": "5cae5ef9a092533cecb92154",
+      "panoImage": "5d8de96a9f0bc110148324de",
+      "imageUrl": "https://pathadvisor.ust.hk/api/images/5cae5ef9a092533cecb92154",
+      "panoImageUrl": "https://pathadvisor.ust.hk/api/pano/images/5d8de96a9f0bc110148324de",
+      "distance": 1.6531249999999886,
+      "unit": "METER"
+    },
+    {
+      "_id": "CCgEyb03u2x",
+      "coordinates": [866, 141],
+      "floorId": "1",
+      "panoImage": "5d8de9839f0bc11014832525",
+      "panoImageUrl": "https://pathadvisor.ust.hk/api/pano/images/5d8de9839f0bc11014832525",
+      "distance": 4.815625000000011,
+      "unit": "METER"
+    },
+    {
+      "_id": "3X8hVfCEXSD_",
+      "coordinates": [779, 141],
+      "floorId": "1",
+      "distance": 6.253125000000011,
+      "unit": "METER"
+    },
+    {
+      "_id": "wGjy6aT3DNI9",
+      "coordinates": [742, 141],
+      "floorId": "1",
+      "distance": 2.6593750000000114,
+      "unit": "METER"
+    },
+    {
+      "_id": "vgneN7nzXVl2",
+      "coordinates": [725, 141],
+      "floorId": "1",
+      "distance": 1.2218750000000114,
+      "unit": "METER"
+    },
+    {
+      "_id": "DFx6CSuk3DIR",
+      "coordinates": [696, 141],
+      "floorId": "1",
+      "distance": 2.0843749999999943,
+      "unit": "METER"
+    },
+    {
+      "_id": "e_LZKtA7rkU-",
+      "coordinates": [677, 141],
+      "floorId": "1",
+      "distance": 1.3656249999999943,
+      "unit": "METER"
+    },
+    {
+      "_id": "YrKIwI1xB9A",
+      "coordinates": [651, 141],
+      "floorId": "1",
+      "panoImage": "5d8de96e9f0bc110148324e9",
+      "panoImageUrl": "https://pathadvisor.ust.hk/api/pano/images/5d8de96e9f0bc110148324e9",
+      "distance": 1.8687500000000057,
+      "unit": "METER"
+    },
+    {
+      "_id": "f4mo_0OEfMW",
+      "coordinates": [611, 141],
+      "floorId": "1",
+      "panoImage": "5d8de9609f0bc110148324c1",
+      "panoImageUrl": "https://pathadvisor.ust.hk/api/pano/images/5d8de9609f0bc110148324c1",
+      "distance": 2.875,
+      "unit": "METER"
+    },
+    {
+      "_id": "FYeC6WM00lSG",
+      "coordinates": [611, 72],
+      "floorId": "1",
+      "panoImage": "5d8de9829f0bc11014832523",
+      "panoImageUrl": "https://pathadvisor.ust.hk/api/pano/images/5d8de9829f0bc11014832523",
+      "distance": 4.959374999999994,
+      "unit": "METER"
+    },
+    {
+      "_id": "r-9iOFy-WJme",
+      "coordinates": [464, 72],
+      "name": "ESCALATOR",
+      "connectorId": "ESCALATOR_SP 1_G_2",
+      "floorId": "1",
+      "distance": 10.565625000000011,
+      "unit": "METER"
+    },
+    {
+      "_id": "uu-lfECJE5Ea",
+      "coordinates": [435, 44],
+      "name": "ESCALATOR",
+      "connectorId": "ESCALATOR_SP 1_G_2",
+      "floorId": "G",
+      "distance": 1.0000007932831068e-8,
+      "unit": "METER"
+    },
+    {
+      "_id": "NTdqTC1C-X3d",
+      "coordinates": [350, 44],
+      "floorId": "G",
+      "distance": 6.109375,
+      "unit": "METER"
+    },
+    {
+      "_id": "rSW9GNPgN3-b",
+      "coordinates": [350, 8],
+      "floorId": "G",
+      "distance": 2.5875000000000057,
+      "unit": "METER"
+    },
+    {
+      "_id": "bAzNPGkhyUIz",
+      "coordinates": [308, 8],
+      "floorId": "G",
+      "image": "5cae5f03a092533cecb92168",
+      "imageUrl": "https://pathadvisor.ust.hk/api/images/5cae5f03a092533cecb92168",
+      "distance": 3.0187500000000114,
+      "unit": "METER"
+    },
+    {
+      "_id": "W8pY4JNGV",
+      "floorId": "G",
+      "coordinates": [228, 8],
+      "distance": 5.75,
+      "unit": "METER"
+    },
+    {
+      "_id": "HiEvVWaB9O7T",
+      "coordinates": [228, -44],
+      "floorId": "G",
+      "distance": 3.7375000000000114,
+      "unit": "METER"
+    },
+    {
+      "_id": "Vvw_2QM8RWCv",
+      "coordinates": [228, -245],
+      "floorId": "G",
+      "distance": 14.446875000000006,
+      "unit": "METER"
+    },
+    {
+      "_id": "N7tWFH-326It",
+      "coordinates": [228, -295],
+      "floorId": "G",
+      "distance": 3.59375,
+      "unit": "METER"
+    },
+    {
+      "_id": "eMsf-WX41C7E",
+      "coordinates": [228, -346],
+      "floorId": "G",
+      "distance": 3.6656250000000057,
+      "unit": "METER"
+    },
+    {
+      "_id": "ZJBfK9IRfDZd",
+      "coordinates": [228, -373],
+      "floorId": "G",
+      "distance": 1.9406250000000114,
+      "unit": "METER"
+    },
+    {
+      "_id": "LQxzVIks-Z5s",
+      "coordinates": [228, -424],
+      "floorId": "G",
+      "distance": 3.6656249999999773,
+      "unit": "METER"
+    },
+    {
+      "_id": "0QmAiFfboY2q",
+      "coordinates": [228, -455],
+      "floorId": "G",
+      "distance": 2.2281249999999773,
+      "unit": "METER"
+    },
+    {
+      "_id": "8Qo83o1RzK1d",
+      "coordinates": [228, -465],
+      "floorId": "G",
+      "distance": 0.71875,
+      "unit": "METER"
+    },
+    {
+      "_id": "aPxW7xiz8VfI",
+      "coordinates": [228, -484],
+      "floorId": "G",
+      "distance": 1.3656250000000227,
+      "unit": "METER"
+    },
+    {
+      "_id": "QAegfwonwSzA",
+      "coordinates": [228, -512],
+      "name": "LIFT 15",
+      "connectorId": "LIFT 15",
+      "floorId": "G",
+      "distance": 2.0124999999999886,
+      "unit": "METER"
+    },
+    {
+      "_id": "wq_dF2a3Pd",
+      "floorId": "LG5",
+      "name": "LIFT 15",
+      "connectorId": "LIFT 15",
+      "coordinates": [230, -508],
+      "distance": 1.50000118992466e-10,
+      "unit": "MINUTE"
+    },
+    {
+      "_id": "S9JYs9LSZ",
+      "floorId": "LG5",
+      "coordinates": [230, -473],
+      "distance": 2.515625,
+      "unit": "METER"
+    },
+    {
+      "_id": "laCx97GmLZ",
+      "floorId": "LG5",
+      "coordinates": [39, -473],
+      "distance": 13.728124999999977,
+      "unit": "METER"
+    },
+    {
+      "_id": "EscpZLDyuE",
+      "floorId": "LG5",
+      "coordinates": [39, -459],
+      "distance": 1.0062500000000227,
+      "unit": "METER"
+    },
+    {
+      "_id": "eUZvymH66RB",
+      "coordinates": [-38, -459],
+      "floorId": "LG5",
+      "panoImage": "5d8debc19f0bc11014832b89",
+      "panoImageUrl": "https://pathadvisor.ust.hk/api/pano/images/5d8debc19f0bc11014832b89",
+      "distance": 5.534375000000011,
+      "unit": "METER"
+    },
+    {
+      "_id": "ohCWo7ecLB2",
+      "coordinates": [-38, -383],
+      "floorId": "LG5",
+      "distance": 5.462499999999977,
+      "unit": "METER"
+    },
+    {
+      "_id": "k6nLhAKYC_n",
+      "coordinates": [-207, -384],
+      "floorId": "LG5",
+      "panoImage": "5d8debc39f0bc11014832b8d",
+      "panoImageUrl": "https://pathadvisor.ust.hk/api/pano/images/5d8debc39f0bc11014832b8d",
+      "distance": 12.147087646067689,
+      "unit": "METER"
+    },
+    {
+      "_id": "XaWtwB9lZ7w",
+      "coordinates": [-579, -384],
+      "floorId": "LG5",
+      "distance": 26.73750000000001,
+      "unit": "METER"
+    },
+    {
+      "_id": "oTH979A9WI9",
+      "coordinates": [-579, -278],
+      "floorId": "LG5",
+      "distance": 7.618749999999977,
+      "unit": "METER"
+    },
+    {
+      "_id": "98Q-Bft4Xjb",
+      "coordinates": [-579, -172],
+      "floorId": "LG5",
+      "distance": 7.618749999999977,
+      "unit": "METER"
+    },
+    {
+      "_id": "DFehRzQ8Zp_",
+      "coordinates": [-657, -172],
+      "name": "McDonalds",
+      "tagIds": ["restaurant"],
+      "floorId": "LG5",
+      "image": "5cae5f04a092533cecb92174",
+      "imageUrl": "https://pathadvisor.ust.hk/api/images/5cae5f04a092533cecb92174",
+      "distance": 0,
+      "unit": "METER"
+    },
+    {
+      "_id": "98Q-Bft4Xjb",
+      "coordinates": [-579, -172],
+      "floorId": "LG5",
+      "distance": 5.606249999999999,
+      "unit": "METER"
+    },
+    {
+      "_id": "oTH979A9WI9",
+      "coordinates": [-579, -278],
+      "floorId": "LG5",
+      "distance": 7.618749999999999,
+      "unit": "METER"
+    },
+    {
+      "_id": "XaWtwB9lZ7w",
+      "coordinates": [-579, -384],
+      "floorId": "LG5",
+      "distance": 7.618749999999999,
+      "unit": "METER"
+    },
+    {
+      "_id": "k6nLhAKYC_n",
+      "coordinates": [-207, -384],
+      "floorId": "LG5",
+      "panoImage": "5d8debc39f0bc11014832b8d",
+      "panoImageUrl": "https://pathadvisor.ust.hk/api/pano/images/5d8debc39f0bc11014832b8d",
+      "distance": 26.7375,
+      "unit": "METER"
+    },
+    {
+      "_id": "ohCWo7ecLB2",
+      "coordinates": [-38, -383],
+      "floorId": "LG5",
+      "distance": 12.147087646067675,
+      "unit": "METER"
+    },
+    {
+      "_id": "eUZvymH66RB",
+      "coordinates": [-38, -459],
+      "floorId": "LG5",
+      "panoImage": "5d8debc19f0bc11014832b89",
+      "panoImageUrl": "https://pathadvisor.ust.hk/api/pano/images/5d8debc19f0bc11014832b89",
+      "distance": 5.462500000000006,
+      "unit": "METER"
+    },
+    {
+      "_id": "EscpZLDyuE",
+      "floorId": "LG5",
+      "coordinates": [39, -459],
+      "distance": 5.534374999999997,
+      "unit": "METER"
+    },
+    {
+      "_id": "laCx97GmLZ",
+      "floorId": "LG5",
+      "coordinates": [39, -473],
+      "distance": 1.0062499999999943,
+      "unit": "METER"
+    },
+    {
+      "_id": "S9JYs9LSZ",
+      "floorId": "LG5",
+      "coordinates": [230, -473],
+      "distance": 13.728124999999991,
+      "unit": "METER"
+    },
+    {
+      "_id": "wq_dF2a3Pd",
+      "floorId": "LG5",
+      "name": "LIFT 15",
+      "connectorId": "LIFT 15",
+      "coordinates": [230, -508],
+      "distance": 2.515625,
+      "unit": "METER"
+    },
+    {
+      "_id": "xwb3kvmEUoV",
+      "coordinates": [223, -512],
+      "name": "LIFT 15",
+      "connectorId": "LIFT 15",
+      "floorId": "2",
+      "distance": 1.499999058296453e-10,
+      "unit": "MINUTE"
+    },
+    {
+      "_id": "nHyIpxTyUKJ",
+      "coordinates": [223, -487],
+      "floorId": "2",
+      "distance": 1.796875,
+      "unit": "METER"
+    },
+    {
+      "_id": "BpIHdmQZJ1e",
+      "coordinates": [223, -463],
+      "floorId": "2",
+      "panoImage": "5d8de9f89f0bc11014832680",
+      "panoImageUrl": "https://pathadvisor.ust.hk/api/pano/images/5d8de9f89f0bc11014832680",
+      "distance": 1.7249999999999943,
+      "unit": "METER"
+    },
+    {
+      "_id": "GiMK7xolpw-",
+      "coordinates": [223, -424],
+      "floorId": "2",
+      "panoImage": "5d8de9c59f0bc110148325e5",
+      "panoImageUrl": "https://pathadvisor.ust.hk/api/pano/images/5d8de9c59f0bc110148325e5",
+      "distance": 2.8031249999999943,
+      "unit": "METER"
+    },
+    {
+      "_id": "FZEeCeg_eHD",
+      "coordinates": [215, -424],
+      "floorId": "2",
+      "distance": 0.5750000000000028,
+      "unit": "METER"
+    },
+    {
+      "_id": "36526tkegPh",
+      "coordinates": [215, -382],
+      "floorId": "2",
+      "distance": 3.018749999999997,
+      "unit": "METER"
+    },
+    {
+      "_id": "CJPLlS4udLA",
+      "coordinates": [215, -366],
+      "floorId": "2",
+      "distance": 1.1500000000000057,
+      "unit": "METER"
+    },
+    {
+      "_id": "hR2Gj7KrvG0M",
+      "coordinates": [215, -344],
+      "floorId": "2",
+      "distance": 1.5812499999999972,
+      "unit": "METER"
+    },
+    {
+      "_id": "EuCLXZKuiU4p",
+      "coordinates": [242, -344],
+      "floorId": "2",
+      "distance": 1.9406249999999972,
+      "unit": "METER"
+    },
+    {
+      "_id": "WGoRJFbG9F5e",
+      "coordinates": [355, -344],
+      "floorId": "2",
+      "distance": 8.121875000000003,
+      "unit": "METER"
+    },
+    {
+      "_id": "W6NXCGMCWGKD",
+      "coordinates": [403, -344],
+      "floorId": "2",
+      "distance": 3.450000000000003,
+      "unit": "METER"
+    },
+    {
+      "_id": "WJI_NPFRKOon",
+      "coordinates": [403, -301],
+      "floorId": "2",
+      "distance": 3.090625000000003,
+      "unit": "METER"
+    },
+    {
+      "_id": "BpqN55fOMFg",
+      "coordinates": [403, -281],
+      "floorId": "2",
+      "panoImage": "5d8de9c69f0bc110148325ea",
+      "panoImageUrl": "https://pathadvisor.ust.hk/api/pano/images/5d8de9c69f0bc110148325ea",
+      "distance": 1.4375,
+      "unit": "METER"
+    },
+    {
+      "_id": "tFvzYRZNWhR",
+      "coordinates": [436, -281],
+      "floorId": "2",
+      "distance": 2.371875000000003,
+      "unit": "METER"
+    },
+    {
+      "_id": "BuY9QBxhhA5",
+      "coordinates": [500, -281],
+      "floorId": "2",
+      "panoImage": "5d8de9c79f0bc110148325eb",
+      "panoImageUrl": "https://pathadvisor.ust.hk/api/pano/images/5d8de9c79f0bc110148325eb",
+      "distance": 4.599999999999994,
+      "unit": "METER"
+    },
+    {
+      "_id": "AZH8X1AqxxYq",
+      "coordinates": [562, -281],
+      "floorId": "2",
+      "distance": 4.456249999999997,
+      "unit": "METER"
+    },
+    {
+      "_id": "jlGTeGc7X5Jz",
+      "coordinates": [601, -281],
+      "floorId": "2",
+      "panoImage": "5d8de9c99f0bc110148325f2",
+      "panoImageUrl": "https://pathadvisor.ust.hk/api/pano/images/5d8de9c99f0bc110148325f2",
+      "distance": 2.8031249999999943,
+      "unit": "METER"
+    },
+    {
+      "_id": "Wp9YEH8ynKCY",
+      "coordinates": [601, -301],
+      "floorId": "2",
+      "distance": 1.4375,
+      "unit": "METER"
+    },
+    {
+      "_id": "m20tNM6sTe8C",
+      "coordinates": [601, -341],
+      "floorId": "2",
+      "distance": 2.875,
+      "unit": "METER"
+    },
+    {
+      "_id": "Zwy-aFdgquku",
+      "coordinates": [608, -341],
+      "floorId": "2",
+      "distance": 0.5031250000000114,
+      "unit": "METER"
+    },
+    {
+      "_id": "R_vieWQ8tQHR",
+      "coordinates": [626, -341],
+      "floorId": "2",
+      "distance": 1.2937499999999886,
+      "unit": "METER"
+    },
+    {
+      "_id": "8bWgznhJf2Fn",
+      "coordinates": [690, -341],
+      "floorId": "2",
+      "panoImage": "5d8de9cb9f0bc110148325f7",
+      "panoImageUrl": "https://pathadvisor.ust.hk/api/pano/images/5d8de9cb9f0bc110148325f7",
+      "distance": 4.599999999999994,
+      "unit": "METER"
+    },
+    {
+      "_id": "qlzbEWanCoPM",
+      "coordinates": [714, -341],
+      "floorId": "2",
+      "panoImage": "5d8de9cb9f0bc110148325f8",
+      "panoImageUrl": "https://pathadvisor.ust.hk/api/pano/images/5d8de9cb9f0bc110148325f8",
+      "distance": 1.7249999999999943,
+      "unit": "METER"
+    },
+    {
+      "_id": "yOswwi_RLA7E",
+      "coordinates": [815, -341],
+      "floorId": "2",
+      "panoImage": "5d8de9cb9f0bc110148325f9",
+      "panoImageUrl": "https://pathadvisor.ust.hk/api/pano/images/5d8de9cb9f0bc110148325f9",
+      "distance": 7.259375000000006,
+      "unit": "METER"
+    },
+    {
+      "_id": "gCfrbMK0PLTA",
+      "coordinates": [838, -341],
+      "floorId": "2",
+      "panoImage": "5d8de9cd9f0bc110148325fd",
+      "panoImageUrl": "https://pathadvisor.ust.hk/api/pano/images/5d8de9cd9f0bc110148325fd",
+      "distance": 1.6531249999999886,
+      "unit": "METER"
+    },
+    {
+      "_id": "W2MRuqsdGdcS",
+      "coordinates": [901, -341],
+      "floorId": "2",
+      "panoImage": "5d8de9cd9f0bc110148325fe",
+      "panoImageUrl": "https://pathadvisor.ust.hk/api/pano/images/5d8de9cd9f0bc110148325fe",
+      "distance": 4.528124999999989,
+      "unit": "METER"
+    },
+    {
+      "_id": "aYnumUgDgjeD",
+      "coordinates": [1004, -341],
+      "floorId": "2",
+      "panoImage": "5d8de9cf9f0bc11014832603",
+      "panoImageUrl": "https://pathadvisor.ust.hk/api/pano/images/5d8de9cf9f0bc11014832603",
+      "distance": 7.403124999999989,
+      "unit": "METER"
+    },
+    {
+      "_id": "msnMWsvhYYTJ",
+      "coordinates": [1087, -341],
+      "floorId": "2",
+      "panoImage": "5d8de9d09f0bc11014832606",
+      "panoImageUrl": "https://pathadvisor.ust.hk/api/pano/images/5d8de9d09f0bc11014832606",
+      "distance": 5.965624999999989,
+      "unit": "METER"
+    },
+    {
+      "_id": "-dHptOomggnT",
+      "coordinates": [1152, -341],
+      "floorId": "2",
+      "panoImage": "5d8de9d09f0bc11014832607",
+      "panoImageUrl": "https://pathadvisor.ust.hk/api/pano/images/5d8de9d09f0bc11014832607",
+      "distance": 4.671875,
+      "unit": "METER"
+    },
+    {
+      "_id": "3kQjVglVtJRI",
+      "coordinates": [1172, -341],
+      "floorId": "2",
+      "panoImage": "5d8de9fc9f0bc1101483268d",
+      "panoImageUrl": "https://pathadvisor.ust.hk/api/pano/images/5d8de9fc9f0bc1101483268d",
+      "distance": 1.4375,
+      "unit": "METER"
+    },
+    {
+      "_id": "xWvpUvF847iM",
+      "coordinates": [1192, -341],
+      "floorId": "2",
+      "distance": 1.4375,
+      "unit": "METER"
+    },
+    {
+      "_id": "uvQ7Y-JxPVpO",
+      "coordinates": [1214, -341],
+      "floorId": "2",
+      "distance": 1.5812500000000114,
+      "unit": "METER"
+    },
+    {
+      "_id": "o8eI8Vhsxefz",
+      "coordinates": [1320, -341],
+      "floorId": "2",
+      "panoImage": "5d8de9d49f0bc11014832614",
+      "panoImageUrl": "https://pathadvisor.ust.hk/api/pano/images/5d8de9d49f0bc11014832614",
+      "distance": 7.618750000000006,
+      "unit": "METER"
+    },
+    {
+      "_id": "1159Y2Q7vnv2",
+      "coordinates": [1320, -302],
+      "floorId": "2",
+      "panoImage": "5d8de9d49f0bc11014832613",
+      "panoImageUrl": "https://pathadvisor.ust.hk/api/pano/images/5d8de9d49f0bc11014832613",
+      "distance": 2.8031249999999943,
+      "unit": "METER"
+    },
+    {
+      "_id": "Mo9Sr-tPEoNf",
+      "coordinates": [1320, -281],
+      "floorId": "2",
+      "panoImage": "5d8de9d49f0bc11014832615",
+      "panoImageUrl": "https://pathadvisor.ust.hk/api/pano/images/5d8de9d49f0bc11014832615",
+      "distance": 1.5093750000000057,
+      "unit": "METER"
+    },
+    {
+      "_id": "m8HfF0yF5MKp",
+      "coordinates": [1404, -281],
+      "floorId": "2",
+      "panoImage": "5d8de9d69f0bc1101483261b",
+      "panoImageUrl": "https://pathadvisor.ust.hk/api/pano/images/5d8de9d69f0bc1101483261b",
+      "distance": 6.037499999999994,
+      "unit": "METER"
+    },
+    {
+      "_id": "kx8FRPBinift",
+      "coordinates": [1404, -238],
+      "floorId": "2",
+      "panoImage": "5d8de9d69f0bc1101483261a",
+      "panoImageUrl": "https://pathadvisor.ust.hk/api/pano/images/5d8de9d69f0bc1101483261a",
+      "distance": 3.0906249999999886,
+      "unit": "METER"
+    },
+    {
+      "_id": "P8Mph-fseJ_T",
+      "coordinates": [1404, -155],
+      "floorId": "2",
+      "panoImage": "5d8de9d79f0bc1101483261d",
+      "panoImageUrl": "https://pathadvisor.ust.hk/api/pano/images/5d8de9d79f0bc1101483261d",
+      "distance": 5.965624999999989,
+      "unit": "METER"
+    },
+    {
+      "_id": "nssXP66wbALS",
+      "coordinates": [1404, -9],
+      "floorId": "2",
+      "panoImage": "5d8de9d69f0bc1101483261c",
+      "panoImageUrl": "https://pathadvisor.ust.hk/api/pano/images/5d8de9d69f0bc1101483261c",
+      "distance": 10.493750000000006,
+      "unit": "METER"
+    },
+    {
+      "_id": "CPzcbkWAQCGr",
+      "coordinates": [1404, 16],
+      "floorId": "2",
+      "panoImage": "5d8de9d79f0bc1101483261f",
+      "panoImageUrl": "https://pathadvisor.ust.hk/api/pano/images/5d8de9d79f0bc1101483261f",
+      "distance": 1.796875,
+      "unit": "METER"
+    },
+    {
+      "_id": "B0M0buwO71FD",
+      "coordinates": [1404, 156],
+      "floorId": "2",
+      "panoImage": "5d8de9d79f0bc1101483261e",
+      "panoImageUrl": "https://pathadvisor.ust.hk/api/pano/images/5d8de9d79f0bc1101483261e",
+      "distance": 10.0625,
+      "unit": "METER"
+    },
+    {
+      "_id": "Gb3gEUcDK1SN",
+      "coordinates": [1417, 156],
+      "floorId": "2",
+      "distance": 0.9343749999999886,
+      "unit": "METER"
+    },
+    {
+      "_id": "4dKPz2K8njCE",
+      "coordinates": [1452, 156],
+      "floorId": "2",
+      "distance": 2.515625,
+      "unit": "METER"
+    },
+    {
+      "_id": "7K6X73X4IpTD",
+      "coordinates": [1591, 156],
+      "floorId": "2",
+      "panoImage": "5d8de9d89f0bc11014832622",
+      "panoImageUrl": "https://pathadvisor.ust.hk/api/pano/images/5d8de9d89f0bc11014832622",
+      "distance": 9.990624999999994,
+      "unit": "METER"
+    },
+    {
+      "_id": "-Lzbu3mxNOlV",
+      "coordinates": [1612, 156],
+      "floorId": "2",
+      "panoImage": "5d8de9d99f0bc11014832623",
+      "panoImageUrl": "https://pathadvisor.ust.hk/api/pano/images/5d8de9d99f0bc11014832623",
+      "distance": 1.5093750000000057,
+      "unit": "METER"
+    },
+    {
+      "_id": "cO32GAR8u13",
+      "coordinates": [1634, 156],
+      "name": "ROOM 2502",
+      "tagIds": ["classroom"],
+      "url": "http://seatplan.ust.hk/?room=2502",
+      "floorId": "2",
+      "distance": 1.5812500000000114,
+      "unit": "METER"
+    }
+  ]
+}

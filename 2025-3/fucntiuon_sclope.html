@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Function Inside a Function & Shadowing</title>
+  </head>
+  <body>
+    <h2>Check the Console for Output</h2>
+
+    <script>
+      // Outer function definition
+      function outerFunction() {
+        console.log("Outer Function Executed!");
+
+        // Inner function definition
+        function innerFunction() {
+          console.log("Inner Function Executed!");
+        }
+
+        // Calling the inner function
+        innerFunction();
+      }
+
+      // Calling the outer function
+      outerFunction();
+
+      // Trying to call innerFunction outside its scope (This will cause an error)
+      // innerFunction(); // Uncommenting this will throw an error because innerFunction is not in global scope
+
+      // Function name shadowing example
+      function showMessage() {
+        console.log("Global showMessage function");
+      }
+
+      function scopeTest() {
+        function showMessage() {
+          console.log("Local showMessage function inside scopeTest");
+        }
+        showMessage(); // Calls the inner (local) function
+
+        //if I want to call the gobal function
+        window.showMessage(); // Calls the global function
+      }
+
+      // Calling functions
+      scopeTest(); // Calls the local function inside scopeTest
+    </script>
+  </body>
+</html>

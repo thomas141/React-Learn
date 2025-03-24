@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Destructuring Example</title>
+  </head>
+  <body>
+    <h2>Check the Console for Output</h2>
+
+    <script>
+      // Example 1: Array Destructuring
+      const numbers = [10, 20, 30, 40];
+      const [first, second, ...rest] = numbers; // Destructuring with rest operator
+      console.log("First Number:", first); // Output: 10
+      console.log("Second Number:", second); // Output: 20
+      console.log("Rest of the Numbers:", rest); // Output: [30, 40]
+
+      // Example 2: Object Destructuring
+      const person = { name: "Alice", age: 25, city: "New York" };
+      const { name, age, city } = person; // Extract properties into variables
+      console.log("Name:", name); // Output: Alice
+      console.log("Age:", age); // Output: 25
+      console.log("City:", city); // Output: New York
+
+      // Example 3: Destructuring with Default Values
+      const { country = "USA" } = person; // Default value if property is missing
+      console.log("Country:", country); // Output: USA (since it's not in `person`)
+
+      // Example 4: Destructuring in Function Parameters
+      function displayUser({ name, age }) {
+        console.log(`User: ${name}, Age: ${age}`);
+      }
+      displayUser(person); // Output: User: Alice, Age: 25
+
+      // Example 5: Nested Object Destructuring
+      const student = {
+        id: 101,
+        details: {
+          fullName: "Bob Smith",
+          grade: "A",
+        },
+      };
+      const {
+        details: { fullName, grade },
+      } = student; // Extract nested properties
+      console.log("Student Name:", fullName); // Output: Bob Smith
+      console.log("Grade:", grade); // Output: A
+    </script>
+  </body>
+</html>

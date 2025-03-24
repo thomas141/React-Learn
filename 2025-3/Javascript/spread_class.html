@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Spread Operator - Objects & Classes</title>
+  </head>
+  <body>
+    <h2>Check the Console for Output</h2>
+
+    <script>
+      // Example 1: Cloning an Object
+      const person = { name: "John", age: 30 };
+      const clonedPerson = { ...person }; // Creates a copy of `person`
+      console.log("Original Person:", person);
+      console.log("Cloned Person:", clonedPerson);
+
+      // Example 2: Merging Objects
+      const address = { city: "New York", country: "USA" };
+      const personWithAddress = { ...person, ...address }; // Merging objects
+      console.log("Person with Address:", personWithAddress);
+
+      // Example 3: Using Spread Operator in a Class
+      class Employee {
+        constructor(name, age, position) {
+          this.name = name;
+          this.age = age;
+          this.position = position;
+        }
+      }
+
+      const emp1 = new Employee("Alice", 28, "Developer");
+
+      // Creating a new object with additional properties using spread
+      const updatedEmp = { ...emp1, salary: 50000 };
+      console.log("Original Employee:", emp1);
+      console.log("Updated Employee with Salary:", updatedEmp);
+    </script>
+  </body>
+</html>
